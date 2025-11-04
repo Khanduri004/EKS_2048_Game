@@ -192,5 +192,12 @@ ingress-2048   alb     *       k8s-game2048-ingress2-bcac0b5b37-1314048833.eu-we
 ---
 
 ## Screenshot
+![2048 App Screenshot](./2048%20app.png)
 
+## References
+
+- [Amazon EKS Documentation](https://docs.aws.amazon.com/eks/latest/userguide/what-is-eks.html)
+- [AWS CLI Documentation](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-install.html)
+- [eksctl Documentation](https://docs.aws.amazon.com/eks/latest/userguide/eksctl.html)
+- [kubectl Documentation](https://kubernetes.io/docs/tasks/tools/)
 
